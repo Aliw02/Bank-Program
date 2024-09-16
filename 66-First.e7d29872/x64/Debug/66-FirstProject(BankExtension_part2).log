@@ -1,0 +1,9 @@
+﻿  66-FirstProject(BankExtension_part2).cpp
+D:\MyFolder\ProgrammingAdvicesCourses\07-AlgorithmsSolutions_Part4\66-FirstProject(BankExtension_part2)\66-FirstProject(BankExtension_part2).cpp(114,26): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\MyFolder\ProgrammingAdvicesCourses\07-AlgorithmsSolutions_Part4\66-FirstProject(BankExtension_part2)\66-FirstProject(BankExtension_part2).cpp(1956,13): warning C4129: 'M': unrecognized character escape sequence
+D:\MyFolder\ProgrammingAdvicesCourses\07-AlgorithmsSolutions_Part4\66-FirstProject(BankExtension_part2)\66-FirstProject(BankExtension_part2).cpp(605,1): warning C4715: 'EditBalanceToClientByAccountNumber': not all control paths return a value
+D:\MyFolder\ProgrammingAdvicesCourses\07-AlgorithmsSolutions_Part4\66-FirstProject(BankExtension_part2)\66-FirstProject(BankExtension_part2).cpp(521,1): warning C4715: 'DeleteClientByAccountNumber': not all control paths return a value
+D:\MyFolder\ProgrammingAdvicesCourses\07-AlgorithmsSolutions_Part4\66-FirstProject(BankExtension_part2)\66-FirstProject(BankExtension_part2).cpp(571,1): warning C4715: 'UpdateClientByAccountNumber': not all control paths return a value
+D:\MyFolder\ProgrammingAdvicesCourses\07-AlgorithmsSolutions_Part4\66-FirstProject(BankExtension_part2)\66-FirstProject(BankExtension_part2).cpp(1106,1): warning C4715: 'DeleteUserByUsername': not all control paths return a value
+D:\MyFolder\ProgrammingAdvicesCourses\07-AlgorithmsSolutions_Part4\66-FirstProject(BankExtension_part2)\66-FirstProject(BankExtension_part2).cpp(1259,1): warning C4715: 'CheckThePermissions': not all control paths return a value
+  66-FirstProject(BankExtension_part2).vcxproj -> D:\MyFolder\ProgrammingAdvicesCourses\07-AlgorithmsSolutions_Part4\66-FirstProject(BankExtension_part2)\x64\Debug\66-FirstProject(BankExtension_part2).exe
